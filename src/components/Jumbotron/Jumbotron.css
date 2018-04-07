@@ -1,0 +1,9 @@
+.jumbotron {
+    background: url(/assets/images/Background.png) no-repeat center center fixed;;
+   	background-size: 100% auto;
+    color: black;
+    min-height: 300px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+}

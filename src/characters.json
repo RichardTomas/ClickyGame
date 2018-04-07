@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "image":"./assets/images/Archie.jpg",
+        "clicked": false
+    },
+    {
+        "id":2,
+        "image":"./assets/images/Betty.jpg",
+        "clicked": false
+    },    
+    {
+        "id":3,
+        "image":"./assets/images/Chuck.jpg",
+        "clicked": false
+    },    
+    {
+        "id":4,
+        "image":"./assets/images/Dilton.jpg",
+        "clicked": false
+    },    
+    {
+        "id":5,
+        "image":"./assets/images/Ethel.jpg",
+        "clicked": false
+    },    
+    {
+        "id":6,
+        "image":"./assets/images/Josie.jpg",
+        "clicked": false
+    },    
+    {
+        "id":7,
+        "image":"./assets/images/Jughead.jpg",
+        "clicked": false
+    },    
+    {
+        "id":8,
+        "image":"./assets/images/Midge.jpg",
+        "clicked": false
+    },    
+    {
+        "id":9,
+        "image":"./assets/images/Moose.jpg",
+        "clicked": false
+    },    
+    {
+        "id":10,
+        "image":"./assets/images/Reggie.jpg",
+        "clicked": false
+    },    
+    {
+        "id":11,
+        "image":"./assets/images/Sabrina.jpg",
+        "clicked": false
+    },    
+    {
+        "id":12,
+        "image":"./assets/images/Veronica.jpg",
+        "clicked": false
+    }
+]
